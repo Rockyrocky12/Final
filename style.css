@@ -1,0 +1,81 @@
+.jumbotron2{
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    padding: 70px
+}
+.jumbotron2 img{
+    opacity: 0.9;
+    border: 3px solid #ffffff
+}
+.card2:hover {
+    width: 100.90%;
+    height: 101%;
+    top: 1px;
+    left: 1px;
+    box-shadow: 10px 12px #9f9da0;
+}
+.footer{
+    background-color: #7a8115;
+    margin: 10px 0px;
+    padding: 20px 250px;
+}
+.header{
+    width: 100%;
+    max-height: 100%;
+}
+.header:hover{
+    text-shadow: 5px 6px #d8d8d8
+}
+body {
+    background-color: #f9f9f9 
+}
+.mcheader{
+    width: 100%;
+    height: 110px;
+    background-color: #e20000;
+}
+.imgwrapper{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 30px 880px;
+    padding-top: 10px 
+}
+.text-wrapper{
+    text-align: center;
+}
+.wrapper{
+    margin-top: 170px;
+    max-height: 800px;
+    width: 100%
+}
+.border{
+    width: 100%
+}
+.card2{
+    margin: 30px;
+    border: 2px solid #9e9e9e
+}
+.container{
+    padding-top: 200px;
+}
+.text-block {
+    position: absolute;
+    bottom: 70px;
+    left: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.9
+}
+.text-block2 {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    padding: 5px;
+    background-color: black;
+    color: #ffffff;
+    opacity: 0.9
+}
